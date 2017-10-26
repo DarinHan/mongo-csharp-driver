@@ -34,6 +34,7 @@ namespace MongoDB.Driver
         public MongoClientException(string message)
             : base(message)
         {
+
         }
 
         /// <summary>
